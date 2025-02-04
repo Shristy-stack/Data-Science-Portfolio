@@ -6,3 +6,15 @@ Feel free to explore the repositories, use the code, and get in touch if you hav
 
 Email : [sarkar05shristy@gmail.com](mailto:sarkar05shristy@gmail.com)
 
+## Welcome to My GitHub Repository!
+
+This repository is a comprehensive collection of my work and explorations in the fields of **Machine Learning (ML), Deep Learning (DL),Image Segmentation ,Natural Language Processing (NLP), and Generative AI (GenAI)**. Here, you will find a mix of conceptual explanations and practical projects that demonstrate the application of various algorithms and techniques.
+
+---
+# [Generative AI and LLM's](https://github.com/Shristy-stack/Gen-AI-and-LLM-Projects/tree/main)
+**Concepts:** Detailed overviews of generative models including GANs, VAEs, and transformer-based architectures like GPT and BERT.
+
+**Projects:** Exciting projects involving youtube video summarizer.
+
+---
+
