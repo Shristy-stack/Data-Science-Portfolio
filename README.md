@@ -25,10 +25,10 @@ This repository is a comprehensive collection of my work and explorations in the
 
 ---
 ---
-# [Data Analysis with SQL](https://github.com/Shristy-stack/Computer-Vision-using-Python)
-**Concepts:** Computer Vision with Python uses libraries like OpenCV, TensorFlow, and PyTorch for tasks like object detection, image segmentation, and facial recognition, enabling AI to analyze visual data.
+# [Data Analysis with SQL](https://github.com/Shristy-stack/Data-Analysis-with-SQL)
+**Concepts:** Data Analysis and Data quering using SQL
 
-**Projects:** Exciting projects involving Lung Image Segmentation.
+**Projects:** Exciting projects involving Unicorn Companies Analysis.
 
 ---
 
