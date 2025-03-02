@@ -31,4 +31,9 @@ This repository is a comprehensive collection of my work and explorations in the
 **Projects:** Exciting projects involving Unicorn Companies Analysis.
 
 ---
+---
+# [DSA Practice Using Python (Leetcode) ](https://github.com/Shristy-stack/Leetcode-DSA-Using-Python)
+**Concepts:** This repository contains, the leetcode DSA questions solved by me using Python Programming Language.
 
+
+---
